@@ -1,4 +1,4 @@
-# FetcchX
+# Fetcch
 
 ## Getting Started
 
