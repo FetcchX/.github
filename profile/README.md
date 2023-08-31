@@ -2,9 +2,16 @@
 
 ## Getting Started
 
-### Wallets
-- [Fetcch Overview](https://sk1122.notion.site/Fetcch-Documentation-9f8f562c5ff545d086536e9f58148597)
-- Fetcch Payment Connectivity Network (FPCN) [GraphQL API Documentation](https://sk1122.notion.site/FPCN-API-8d21173910734876abaceca0480a5064)
+Fetcch is building scalable infra for payments by getting togther all the pieces which are neeeded to scale payments (Identity + Settlement + Pull payments)
 
-### dApps
-Coming soon...
+### Pull Payments
+
+It makes blockchain transactions smoother and more intuitive. By enabling wallets and applications to send chain-agnostic transaction requests directly to the user's endpoint, it brings a touch of the ease and simplicity we're used to with traditional online payments
+
+## Know more
+
+- [Website](https://fetcch.xyz)
+- [Docs](https://docs.fetcch.xyz/)
+- [Writings](https://writings.fetcch.xyz)
+- [Twitter](https://twitter.com/FetcchX)
+- [Linkedin](https://www.linkedin.com/company/fetcchx/)
